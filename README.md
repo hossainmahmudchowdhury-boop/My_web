@@ -37,9 +37,9 @@ If you would like to connect with me, collaborate on a project, or learn more ab
 ## Author
 
 
-###Hossain Mahmud Chowdhury
+### Hossain Mahmud Chowdhury
 
-Developer • Hardware Designer • Technology Enthusiast
+          *Developer • Hardware Designer • Technology Enthusiast
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/My_web/blob/main/hero-headshot.webp)
 
 ⭐ Thanks for visiting my portfolio and taking the time to explore my work!
