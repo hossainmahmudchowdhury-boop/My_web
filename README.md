@@ -34,12 +34,29 @@ Each project represents an opportunity to learn something new, solve a problem, 
 
 If you would like to connect with me, collaborate on a project, or learn more about my work, feel free to reach out through the contact information available on my website.
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/My_web/blob/main/Screenshot%204.png)
+
+
+## Future Improvements
+
+I plan to continue improving the website by adding:
+
+* More projects and case studies
+* Detailed project documentation
+* New research work
+* Improved animations and interactions
+* Additional technologies and skills
+* More hardware and robotics projects
+
+
+
 ## Author
 
 
-### Hossain Mahmud Chowdhury
-
-          *Developer • Hardware Designer • Technology Enthusiast
+###                          Hossain Mahmud Chowdhury
+                 • Developer • Hardware Designer • Technology Enthusiast
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/My_web/blob/main/hero-headshot.webp)
+
+
+
 
 ⭐ Thanks for visiting my portfolio and taking the time to explore my work!
